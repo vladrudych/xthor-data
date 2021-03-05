@@ -1,0 +1,762 @@
+[
+    {
+        "Key": "mazda",
+        "Value": "Mazda",
+        "Children": [
+            {
+                "Key": "cx5",
+                "Value": "CX-5",
+                "Children": [
+                    {
+                        "Key": "gen1",
+                        "Value": "Generation #1",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    },
+                    {
+                        "Key": "gen2",
+                        "Value": "Generation #2",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Key": "cx6",
+                "Value": "CX-6",
+                "Children": [
+                    {
+                        "Key": "gen1",
+                        "Value": "Generation #1",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    },
+                    {
+                        "Key": "gen2",
+                        "Value": "Generation #2",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Key": "3",
+                "Value": "3",
+                "Children": [
+                    {
+                        "Key": "gen1",
+                        "Value": "Generation #1",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    },
+                    {
+                        "Key": "gen2",
+                        "Value": "Generation #2",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Key": "5",
+                "Value": "5",
+                "Children": [
+                    {
+                        "Key": "gen1",
+                        "Value": "Generation #1",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    },
+                    {
+                        "Key": "gen2",
+                        "Value": "Generation #2",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Key": "mitsubisi",
+        "Value": "Mitsubisi",
+        "Children": [
+            {
+                "Key": "lancer",
+                "Value": "Lancer",
+                "Children": [
+                    {
+                        "Key": "gen1",
+                        "Value": "Generation #1",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    },
+                    {
+                        "Key": "gen2",
+                        "Value": "Generation #2",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Key": "pajero",
+                "Value": "Pajero",
+                "Children": [
+                    {
+                        "Key": "gen1",
+                        "Value": "Generation #1",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    },
+                    {
+                        "Key": "gen2",
+                        "Value": "Generation #2",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Key": "pajerosport",
+                "Value": "Pajero Sport",
+                "Children": [
+                    {
+                        "Key": "gen1",
+                        "Value": "Generation #1",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    },
+                    {
+                        "Key": "gen2",
+                        "Value": "Generation #2",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Key": "l200",
+                "Value": "L200",
+                "Children": [
+                    {
+                        "Key": "gen1",
+                        "Value": "Generation #1",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    },
+                    {
+                        "Key": "gen2",
+                        "Value": "Generation #2",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Key": "lancerevo",
+                "Value": "Lancer Evo",
+                "Children": [
+                    {
+                        "Key": "gen1",
+                        "Value": "Generation #1",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    },
+                    {
+                        "Key": "gen2",
+                        "Value": "Generation #2",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Key": "outlander",
+                "Value": "Outlander",
+                "Children": [
+                    {
+                        "Key": "gen1",
+                        "Value": "Generation #1",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    },
+                    {
+                        "Key": "gen2",
+                        "Value": "Generation #2",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Key": "mirage",
+                "Value": "Mirage",
+                "Children": [
+                    {
+                        "Key": "gen1",
+                        "Value": "Generation #1",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    },
+                    {
+                        "Key": "gen2",
+                        "Value": "Generation #2",
+                        "Children": [
+                            {
+                                "Key": "2001",
+                                "Value": "2001",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2004",
+                                "Value": "2004",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2006",
+                                "Value": "2006",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2009",
+                                "Value": "2009",
+                                "Children": null
+                            },
+                            {
+                                "Key": "2015",
+                                "Value": "2015",
+                                "Children": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
