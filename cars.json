@@ -1,0 +1,219 @@
+[
+    {
+        "CarTitle": "Audi R8",
+        "CarImage": "ic_audi_r8",
+        "PresetMode": "City",
+        "SoundSettings": {
+            "CitySettings": {
+                "MainVolume": 0.5,
+                "Start": "StarterSound",
+                "IdleSpeedSound": 0.6,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.8,
+                "NumberOfChambers": 2
+            },
+            "SportSettings": {
+                "MainVolume": 0.9,
+                "Start": "DynamicStart",
+                "IdleSpeedSound": 0.9,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.5,
+                "NumberOfChambers": 3
+            },
+            "OwnSettings": {
+                "MainVolume": 0.2,
+                "Start": "Off",
+                "IdleSpeedSound": 0.3,
+                "WorkingCycleSound": 0.4,
+                "UnevennessOfWorkSound": 0.1,
+                "NumberOfChambers": 0
+            }
+        }
+    },
+    {
+        "CarTitle": "Mercedes AMG G63",
+        "CarImage": "ic_mercedes_amg_g63",
+        "PresetMode": "Sport",
+        "SoundSettings": {
+            "CitySettings": {
+                "MainVolume": 0.5,
+                "Start": "StarterSound",
+                "IdleSpeedSound": 0.6,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.8,
+                "NumberOfChambers": 2
+            },
+            "SportSettings": {
+                "MainVolume": 0.9,
+                "Start": "DynamicStart",
+                "IdleSpeedSound": 0.9,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.5,
+                "NumberOfChambers": 3
+            },
+            "OwnSettings": {
+                "MainVolume": 0.2,
+                "Start": "Off",
+                "IdleSpeedSound": 0.3,
+                "WorkingCycleSound": 0.4,
+                "UnevennessOfWorkSound": 0.1,
+                "NumberOfChambers": 0
+            }
+        }
+    },
+    {
+        "CarTitle": "Mercedes AMG C63",
+        "CarImage": "ic_mercedes_amg_c63",
+        "PresetMode": "Own",
+        "SoundSettings": {
+            "CitySettings": {
+                "MainVolume": 0.5,
+                "Start": "StarterSound",
+                "IdleSpeedSound": 0.6,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.8,
+                "NumberOfChambers": 2
+            },
+            "SportSettings": {
+                "MainVolume": 0.9,
+                "Start": "DynamicStart",
+                "IdleSpeedSound": 0.9,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.5,
+                "NumberOfChambers": 3
+            },
+            "OwnSettings": {
+                "MainVolume": 0.2,
+                "Start": "Off",
+                "IdleSpeedSound": 0.3,
+                "WorkingCycleSound": 0.4,
+                "UnevennessOfWorkSound": 0.1,
+                "NumberOfChambers": 0
+            }
+        }
+    },
+    {
+        "CarTitle": "Mercedes AMG S63",
+        "CarImage": "ic_mercedes_amg_s63",
+        "PresetMode": "City",
+        "SoundSettings": {
+            "CitySettings": {
+                "MainVolume": 0.5,
+                "Start": "StarterSound",
+                "IdleSpeedSound": 0.6,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.8,
+                "NumberOfChambers": 2
+            },
+            "SportSettings": {
+                "MainVolume": 0.9,
+                "Start": "DynamicStart",
+                "IdleSpeedSound": 0.9,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.5,
+                "NumberOfChambers": 3
+            },
+            "OwnSettings": {
+                "MainVolume": 0.2,
+                "Start": "Off",
+                "IdleSpeedSound": 0.3,
+                "WorkingCycleSound": 0.4,
+                "UnevennessOfWorkSound": 0.1,
+                "NumberOfChambers": 0
+            }
+        }
+    },
+    {
+        "CarTitle": "Porsche Panamera",
+        "CarImage": "ic_porsche_panamera",
+        "PresetMode": "City",
+        "SoundSettings": {
+            "CitySettings": {
+                "MainVolume": 0.5,
+                "Start": "StarterSound",
+                "IdleSpeedSound": 0.6,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.8,
+                "NumberOfChambers": 2
+            },
+            "SportSettings": {
+                "MainVolume": 0.9,
+                "Start": "DynamicStart",
+                "IdleSpeedSound": 0.9,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.5,
+                "NumberOfChambers": 3
+            },
+            "OwnSettings": {
+                "MainVolume": 0.2,
+                "Start": "Off",
+                "IdleSpeedSound": 0.3,
+                "WorkingCycleSound": 0.4,
+                "UnevennessOfWorkSound": 0.1,
+                "NumberOfChambers": 0
+            }
+        }
+    },
+    {
+        "CarTitle": "Ferrari 488 GTB",
+        "CarImage": "ic_ferrari_488_gtb",
+        "PresetMode": "City",
+        "SoundSettings": {
+            "CitySettings": {
+                "MainVolume": 0.5,
+                "Start": "StarterSound",
+                "IdleSpeedSound": 0.6,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.8,
+                "NumberOfChambers": 2
+            },
+            "SportSettings": {
+                "MainVolume": 0.9,
+                "Start": "DynamicStart",
+                "IdleSpeedSound": 0.9,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.5,
+                "NumberOfChambers": 3
+            },
+            "OwnSettings": {
+                "MainVolume": 0.2,
+                "Start": "Off",
+                "IdleSpeedSound": 0.3,
+                "WorkingCycleSound": 0.4,
+                "UnevennessOfWorkSound": 0.1,
+                "NumberOfChambers": 0
+            }
+        }
+    },
+    {
+        "CarTitle": "BMW M4",
+        "CarImage": "ic_bmw_m4",
+        "PresetMode": "City",
+        "SoundSettings": {
+            "CitySettings": {
+                "MainVolume": 0.5,
+                "Start": "StarterSound",
+                "IdleSpeedSound": 0.6,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.8,
+                "NumberOfChambers": 2
+            },
+            "SportSettings": {
+                "MainVolume": 0.9,
+                "Start": "DynamicStart",
+                "IdleSpeedSound": 0.9,
+                "WorkingCycleSound": 0.7,
+                "UnevennessOfWorkSound": 0.5,
+                "NumberOfChambers": 3
+            },
+            "OwnSettings": {
+                "MainVolume": 0.2,
+                "Start": "Off",
+                "IdleSpeedSound": 0.3,
+                "WorkingCycleSound": 0.4,
+                "UnevennessOfWorkSound": 0.1,
+                "NumberOfChambers": 0
+            }
+        }
+    }
+]
